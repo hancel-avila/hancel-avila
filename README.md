@@ -15,6 +15,7 @@
 
    <h2>😏 Contact me! </h2>
    <ul>
+    <li> 💼 Linkedin: https://www.linkedin.com/in/hancel-avila/ </li>
     <li> 🐤 Twitter: https://twitter.com/Hancel </li>
     <li> 📸 Instagram: https://www.instagram.com/hancel.avila/?hl=es-la </li>
     <li> ✒ Wordpress: https://hancelavila.wordpress.com/author/hancelavila/  </li>
