@@ -13,11 +13,11 @@
   <h3> Hobbies </h3>
   <p> 💙 I love videogames 🎮, play the guitar 🎸 and read literature or science books 📚. </p>
 
-   <h2>😏 Contact me! </h2>
+   <h2>😏 Get in touch! </h2>
    <ul>
+    <li> 💻 Personal: https://hancel-avila.github.io/Portfolio/ </li>
     <li> 💼 Linkedin: https://www.linkedin.com/in/hancel-avila/ </li>
-    <li> 🐤 Twitter: https://twitter.com/Hancel </li>
-    <li> 📷 Instagram: https://www.instagram.com/hancel.avila </li>
+    <li> 🐤 Twitter: https://twitter.com/Hancel </li>   
     <li> ✒ Wordpress: https://hancelavila.wordpress.com/author/hancelavila/  </li>
     <li> 🏀 Dribble: https://dribbble.com/Hancel </li>
    </ul>
