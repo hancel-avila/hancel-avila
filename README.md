@@ -1,7 +1,7 @@
 <h1>Hi! 👋  I’m Hancel </h1>
 <div>
   💪🏻 I’m currently working out with React JS and React Native. <br><br>
-  <p>🕵 I’m always looking to become a better Frontend Developer improving the skills I've learned: </p>
+  <p> I’m always looking to become a better Frontend Developer improving the skills I've learned: </p>
   <ul>
     <li> HTML </li>
     <li> CSS  </li>
@@ -13,7 +13,7 @@
   <h3> Hobbies </h3>
   <p> 💙 I love videogames 🎮, play the guitar 🎸 and read literature or science books 📚. </p>
 
-   <h2>😏 Get in touch! </h2>
+   <h2> Get in touch! </h2>
    <ul>
     <li> 💻 Personal: https://hancel-avila.github.io/Portfolio/ </li>
     <li> 💼 Linkedin: https://www.linkedin.com/in/hancel-avila/ </li>
